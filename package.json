@@ -1,0 +1,29 @@
+{
+  "name": "create-base-test",
+  "version": "1.0.10",
+  "description": "Start with nestjs code base",
+  "bin": "bin/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hieubeo0/create-test-app.git"
+  },
+  "keywords": [
+    "nestjs",
+    "nestjs code base",
+    "start nestjs",
+    "nestjs start"
+  ],
+  "author": "Hieu Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hieubeo0/create-test-app/issues"
+  },
+  "homepage": "https://github.com/hieubeo0/create-test-app/blob/master/README.md",
+  "dependencies": {
+    "boxen": "^5.0.1",
+    "chalk": "^4.1.2",
+    "ejs": "^3.1.6",
+    "inquirer": "^8.1.2",
+    "yargs": "^17.1.1"
+  }
+}

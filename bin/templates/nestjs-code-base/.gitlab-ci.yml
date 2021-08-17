@@ -1,0 +1,9 @@
+stages:
+  - ESLint
+
+ESLint:
+  stage: ESLint
+  image: node:12.18.2-alpine
+  script:
+    - npm install
+    - npm run lint
