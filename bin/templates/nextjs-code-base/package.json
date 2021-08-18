@@ -1,7 +1,8 @@
 {
-  "name": "base-nextjs",
+  "name": "{{projectName}}",
   "version": "0.1.0",
   "private": true,
+  "author": "{{author}}",
   "scripts": {
     "dev": "next dev -p 8080",
     "build": "next build",
